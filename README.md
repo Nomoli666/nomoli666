@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi! :wave: I'm Nomoli!
 
-<!--
-**Nomoli666/nomoli666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **full-stack developper** in training at the training center **TECHNIFUTUR®** (**Belgium**).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages I use a lot
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![PostGreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
+
+## Languages I'm currently learning
+
+![C#](https://img.shields.io/badge/C%23-%239179E4?plastic&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?plastic&logo=gnu-bash&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?plastic&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?plastic&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?plastic&logo=express&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?plastic&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?plastic&logo=mongodb&logoColor=white)
+
+## Languages I've learned but not in detail
+
+![Python](https://img.shields.io/badge/Python-3776AB?plastic&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?plastic&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?plastic&logo=mysql&logoColor=white)
+
+--- 
+
+## What I love in coding and programming
+
+- Having a readable and well organised code
+- Finding the best wayy to do wwhat I want to do
+- An effective file management
+- Well-thought and clear comments and README
+- Complete documentation
+
+---
+
+## Soft skills
+
+(that I honed after 10 years working in restaurants)
+
+- Hard working
+- Cool under pressure
+- Adaptability
+- Willingness to learn
+- Problemm solving
+- Effective communication
+
+## Human languages
+
+- Bilingual French and English
