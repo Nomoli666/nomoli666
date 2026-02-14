@@ -1,5 +1,9 @@
-# Hi! :wave: I'm Nomoli!
+# Hello! :wave: I'm Nora!
 
+**FR**
+Je suis une **développeuse FullStack** en formation au centre **Technifutur** (**Belgiuque**)
+
+**EN**
 I'm a **full-stack developper** in training at the training center **TECHNIFUTUR®** (**Belgium**).
 
 ---
@@ -31,26 +35,49 @@ I'm a **full-stack developper** in training at the training center **TECHNIFUTUR
 
 ## What I love in coding and programming
 
+**FR**
+- Avoir un code lisible et bien organisé
+- Trouver la meilleure manière de faire ce que je veux accomplir
+- Une organisation efficace de mes dossiers
+- Une README et des commentaires clairs et raisonnés
+- Une documentation complète.
+
+**EN**
 - Having a readable and well organised code
-- Finding the best wayy to do wwhat I want to do
+- Finding the best way to do wwhat I want to do
 - An effective file management
-- Well-thought and clear comments and README
+- Well thought-out and clear comments and README
 - Complete documentation
 
 ---
 
 ## Soft skills
 
-(that I honed after 10 years working in restaurants)
+**FR**
+(Que j'ai aiguisé après 6 ans dans la restauration)
+- Travailler dur
+- Être calme sous pression
+- M'adapter rapidement à un nouvel environnement
+- Une envie d'apprendre
+- Une capacité à réagir vite et à trouver des solutions
+- Une communication efficace
+- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white) :wink:
+
+**EN**
+(that I honed after 6 years working in restaurants)
 
 - Hard working
 - Cool under pressure
-- Adaptability
+- Adaptability to new environments
 - Willingness to learn
-- Problemm solving
+- Fast Reaction and Problem solving
 - Effective communication
--  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
+-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white) :wink:
 
 ## Human languages
 
+**FR**
+Bilingue en Anglais et Français
+
+**EN**
 - Bilingual French and English
