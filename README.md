@@ -80,4 +80,4 @@ I'm a **full-stack developper** in training at the training center **TECHNIFUTUR
 Bilingue en Anglais et Français
 
 **EN**
-- Bilingual French and English
+Bilingual French and English
